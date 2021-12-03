@@ -1,0 +1,1 @@
+celular_de_fer = Celular(100, 300)
