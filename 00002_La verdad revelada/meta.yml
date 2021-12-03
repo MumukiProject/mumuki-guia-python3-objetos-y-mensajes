@@ -1,0 +1,27 @@
+---
+locale: es
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Los números
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Los strings
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Los booleanos
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Las listas
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Los diccionarios
+  checked: true
+name: La verdad revelada

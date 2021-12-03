@@ -1,0 +1,1 @@
+¡Exacto! Todos esos son objetos, así que ahora vamos a poder conocerlos con mayor profundidad. :relieved:
