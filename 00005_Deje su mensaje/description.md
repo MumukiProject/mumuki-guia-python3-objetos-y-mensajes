@@ -1,0 +1,1 @@
+Por ahora sabemos que existen distintos tipos de objetos pero la verdad es que aún no vimos nada demasiado útil. La gracia del paradigma 

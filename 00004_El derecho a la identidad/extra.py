@@ -1,0 +1,1 @@
+celular_de_guille = Celular(100, 300)
