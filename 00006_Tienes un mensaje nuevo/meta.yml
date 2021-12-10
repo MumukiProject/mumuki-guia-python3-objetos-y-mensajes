@@ -9,6 +9,6 @@ teacher_info: ''
 manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  kind: last_query_equals
-  value: celular_de_eli.tiene_bateria_maxima()
+  kind: last_query_outputs
+  output: "[2, 4, 8, 16, 32]"
 name: Tienes un mensaje nuevo
