@@ -4,3 +4,4 @@ str.startswith
 str.endswith
 str.strip
 str.lower
+list.remove
