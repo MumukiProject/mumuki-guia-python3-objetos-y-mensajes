@@ -1,3 +1,3 @@
-Ya enviamos nuestro primer mensaje. Como pudimos apreciar, la sintaxis para hacer esto es `objeto.mensaje`. Obviamente los objetos no entienden solamente un mensaje, sino sería muy acotado lo que podemos hacer con ellos. De hecho, los objetos con los que trabajamos en lecciones anteriores también entienden mensajes y algunos de ellos ya los conocés. :hushed:
+Ya enviamos nuestro primer mensaje. Como pudimos apreciar, la sintaxis para hacer esto es `objeto.mensaje`. Obviamente los objetos pueden recibir más de un mensaje, sino sería muy acotado lo que podemos hacer con ellos. 
 
-Previamente vimos funciones como `str.upper` o `list.append`, pero en realidad estos son mensajes que se pueden enviar de la forma tradicional.  
+A los objetos con los que trabajamos en lecciones anteriores también podemos enviarles mensajes y algunos de ellos ya los conocés :hushed:. Anteriormente, en forma de función como por ejemplo `str.upper` o `list.append` 
