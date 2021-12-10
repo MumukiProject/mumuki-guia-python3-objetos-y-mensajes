@@ -1,1 +1,6 @@
 HABLAR DE LOS MENSAJES DEL CELULAR Y DE LAS OTRAS FUNCIONES QUE SE PUEDEN PONER COMO MENSAJES.
+
+str.startswith
+str.endswith
+str.strip
+str.lower
