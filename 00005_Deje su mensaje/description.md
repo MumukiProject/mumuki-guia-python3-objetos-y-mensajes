@@ -2,4 +2,4 @@ Por ahora sabemos que existen distintos tipos de objetos pero la verdad es que a
 
 Para solucionar problemas utilizando el paradigma orientado a objetos, interactuamos con ellos enviándoles mensajes.
 
-> Enviale el mensaje `necesita_saldo` al objeto `celular_de_eli` escribiendo `celular_de_eli.necesita_saldo()`.
+> Enviale el mensaje `necesita_saldo` al objeto `celular_de_eli` escribiendo `celular_de_eli.necesita_saldo()` en la consola.
