@@ -10,7 +10,7 @@ Nuestro ambiente se verá así:
 
 [IMAGEN DE AMBIENTE]
 
-Los círculos son los objetos y las flechas que los apuntan es lo que conocemos como referencias. Diremos que dos referencias son idénticas si apuntan al mismo objeto y para saberlo contamos con el operador `is`.
+Los círculos son los objetos y las flechas que los apuntan son referencias. Diremos que dos referencias son idénticas si apuntan al mismo objeto y para saberlo contamos con el operador `is`.
 
 > Probá lo siguiente en la consola:
 >
