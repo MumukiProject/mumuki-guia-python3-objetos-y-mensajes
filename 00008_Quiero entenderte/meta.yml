@@ -1,11 +1,27 @@
 ---
 locale: es
 tags: []
-layout: input_right
-editor: code
+layout: input_bottom
+editor: multiple_choice
 type: problem
 extra_visible: false
+language: text
 teacher_info: ''
 manual_evaluation: false
-choices: []
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: celular_de_eli.necesita_saldo()
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: celular_de_eli.cargar_bateria()
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: celular_de_eli.tiene_bateria_maxima()
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: celular_de_eli.tiene_bateria()
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: celular_de_eli.apagar()
+  checked: false
 name: Quiero entenderte

@@ -1,1 +1,0 @@
-Podemos acceder a la batería del celular haciendo `celular.bateria`
