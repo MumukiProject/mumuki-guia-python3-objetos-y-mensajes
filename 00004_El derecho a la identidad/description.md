@@ -1,12 +1,23 @@
-Que dos objetos sean iguales, no implica que sean idénticos. Sin embargo, si son idénticos sabemos que son iguales. :thinking:
+Los objetos con los que trabajamos viven en un ambiente. Imaginemos que tenemos el siguiente código:
 
-Con idénticos nos referimos a que tengan la misma identidad, es decir, que sean el mismo objeto. Es que la igualdad y la identidad en el mundo de la programación no significan lo mismo :busts_in_silhouette:. Es más, las comparaciones por igualdad se hacen utilizando el operador `==` mientras que las de identidad se realizan con `is`.
+```python
+brunoDiaz = batman
+bruceWayne = brunoDiaz
+clarkKent = superman
+```
+
+Nuestro ambiente se verá así:
+
+[IMAGEN DE AMBIENTE]
+
+Los círculos son los objetos y las flechas que los apuntan es lo que conocemos como referencias. Diremos que dos referencias son idénticas si apuntan al mismo objeto y para saberlo contamos con el operador `is`.
 
 > Probá lo siguiente en la consola:
 >
 ``` python
-ム "Vuelven los strings" is "Vuelven los strings"
-ム celular_de_guille is celular_de_guille
-ム [4, 8, 17] is [4, 8, 17]
+ム brunoDiaz is batman
+ム brunoDiaz is bruceWayne
+ム superman is clarkKent
+ム superman is batman
 ```
-> ¿Serán idénticos estos objetos?
+> ¿Te imaginás que va a responder en cada caso?

@@ -1,4 +1,5 @@
-¿Qué pasó con las listas? :upside_down:
+¡Excelente! :tada:
 
-En el caso de las listas, si bien tienen los mismos elementos no estamos hablando de la misma lista. A eso nos referimos cuando decimos que son iguales, pero que no son idénticas. :raised_hands:
+Gracias a `is` pudimos vertificar que `batman`, `brunoDiaz` y `bruceWayne` son idénticos, es decir, tienen la misma identidad. Lo mismo sucede con `clarkKent` y `superman`. 
 
+De todas formas, en la mayoría de los casos para comparar dos objetos nos alcanza con el operador de equivalencia visto antes en este recorrido, el ya conocido `==`.
