@@ -4,6 +4,6 @@ class Superheroe:
 
 batman = Superheroe(1939)
 superman = Superheroe(1938)
-brunoDiaz = batman
-bruceWayne = brunoDiaz
-clarkKent = superman
+bruno_diaz = batman
+bruce_wayne = bruno_diaz
+clark_kent = superman

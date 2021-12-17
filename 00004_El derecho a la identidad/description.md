@@ -1,9 +1,9 @@
 Los objetos con los que trabajamos viven en un ambiente. Imaginemos que tenemos el siguiente código:
 
 ```python
-brunoDiaz = batman
-bruceWayne = brunoDiaz
-clarkKent = superman
+bruno_diaz = batman
+bruce_wayne = bruno_diaz
+clark_kent = superman
 ```
 
 Nuestro ambiente se verá así:
@@ -15,9 +15,9 @@ Los círculos son los objetos y las flechas que los apuntan son referencias. Dir
 > Probá lo siguiente en la consola:
 >
 ``` python
-ム brunoDiaz is batman
-ム brunoDiaz is bruceWayne
-ム superman is clarkKent
+ム bruno_diaz is batman
+ム bruno_diaz is bruce_wayne
+ム superman is clark_kent
 ム superman is batman
 ```
 > ¿Te imaginás que va a responder en cada caso?
