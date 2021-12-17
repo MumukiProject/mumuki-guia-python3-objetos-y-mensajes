@@ -10,18 +10,18 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: celular_de_eli.necesita_saldo()
+  value: "`necesita_saldo`"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: celular_de_eli.cargar_bateria()
+  value: "`cargar_bateria`"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: celular_de_eli.tiene_bateria_maxima()
+  value: "`tiene_bateria_maxima`"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: celular_de_eli.tiene_bateria()
+  value: "`tiene_bateria`"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: celular_de_eli.apagar()
+  value: "`apagar`"
   checked: false
 name: Quiero entenderte
