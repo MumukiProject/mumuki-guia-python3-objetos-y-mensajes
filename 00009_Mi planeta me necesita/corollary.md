@@ -1,0 +1,1 @@
+Los mensajes que entiende `celular_de_eli` y `notebook_de_ro` no son los mismos pero se parecen bastante, ¿no? :flushed:
