@@ -8,3 +8,6 @@ class Celular:
 
   def necesita_saldo(self):
     return self.saldo == 0
+    
+  def cargar_a_tope(self):
+    self.bateria = 100
