@@ -1,6 +1,6 @@
 class Superheroe:
-  def __init__(creacion):
-    self.creacion = creacion
+  def __init__(una_creacion):
+    self.creacion = una_creacion
 
 batman = Superheroe(1939)
 superman = Superheroe(1938)
