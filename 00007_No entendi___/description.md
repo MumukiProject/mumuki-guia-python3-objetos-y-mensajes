@@ -1,8 +1,6 @@
-Entonces... ¿Podemos enviarle cualquier mensaje a cualquier objeto?
+Entonces... ¿Podemos enviarle cualquier mensaje a cualquier objeto?¿qué pasará si le preguntamos al `celular_de_eli` si tiene batería? :thinking:
 
-¿Qué pasará si le preguntamos al `celular_de_eli` si tiene batería? 
-
-Dejemos el suspenso y probémoslo
+Dejemos el suspenso y averigüémoslo... :face_with_monocle:
 
 > Probá en la consola:
 >
