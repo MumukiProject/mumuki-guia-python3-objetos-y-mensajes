@@ -1,4 +1,4 @@
-En capítulos anteriores hablamos de funciones y procedimientos, aprendimos que las primeras nos sirven para retornar un valor mientras que los procedimientos son para cuando necesitamos que nuestro código tenga efecto o modifique algo.
+En capítulos anteriores aprendimos las diferencias entre funciones y procedimientos. Sabemos que las funciones retornan un valor mientras que los procedimientos tienen un efecto, es decir, modifican algo. 
 
 Hasta el momento en objetos, enviamos mensajes que nos retornan un valor, como `tiene_bateria_maxima` o `necesita_saldo`.
 
