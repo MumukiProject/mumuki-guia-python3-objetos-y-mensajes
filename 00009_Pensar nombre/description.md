@@ -1,6 +1,6 @@
 Eli se tuvo que ir y ya no puede prestarnos su celular para probar cosas. :pensive:
 
-Por suerte, Ro nos prestó su notebook :computer: ¡probemos que mensajes entiende!
+Por suerte, Ro nos prestó su notebook :computer: ¿Qué mensajes entenderá?
 
 > Probá en la consola enviarle los siguientes mensajes:
 >
