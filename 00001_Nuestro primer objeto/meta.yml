@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_equals
-  value: celular_de_fer
+  value: celular_de_eli
 name: Nuestro primer objeto

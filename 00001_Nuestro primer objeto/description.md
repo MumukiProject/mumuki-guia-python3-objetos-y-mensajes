@@ -4,5 +4,5 @@ Los objetos nos permiten modelar lo que queramos para poder solucionar distintos
 
 Pero, ¿cómo se ve un objeto? :thinking:
 
-> Escribí en la consola `celular_de_fer` y fijate qué sucede.
+> Escribí en la consola `celular_de_eli` y fijate qué sucede.
 
