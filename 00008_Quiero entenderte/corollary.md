@@ -1,3 +1,1 @@
-¡Excelente! El `celular_de_eli` por el momento entiende los mensajes `necesita_saldo` y `tiene_bateria_maxima`. 
-
-¿Todos los celulares entenderán los mismos dos mensajes? :face_with_monocle:
+¡Excelente! El `celular_de_eli` por el momento entiende los mensajes `necesita_saldo`, `tiene_bateria_maxima` y `cargar_a_tope`. :face_with_monocle:
