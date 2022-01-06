@@ -2,6 +2,6 @@ La programación con objetos, a veces también llamada _orientada a_ objetos, es
 
 Ahora bien: ¿qué es un objeto? Un objeto es .... ¡una cosa! _(¡braaaaavo! :sunglasses:)_. Bueno, bueno, no cualquier cosa, sino algo que es capaz de hacer alguna tarea, la cual conocemos como **responsabilidad** del objeto.
 
-¿Y cómo interactúan estos objetos? ¿Cómo se ven? ¿Cómo hablan entre ellos? 
+¿Y cómo interactúan estos objetos? ¿Cómo se ven? ¿Cómo se comunican entre ellos? 
 
 ¡Cuántas preguntas! Vamos por partes: ¡conozcamos a nuestros primeros objetos!
