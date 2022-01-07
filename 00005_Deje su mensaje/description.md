@@ -10,6 +10,6 @@ _enviar un mensaje al objeto_
 
 _enviar un mensaje a_
 
-...porque si bien no es del todo correcto, es más breve :sweat_smile:. Lo importante es que entiendas que siempre estamos enviando el mensaje al objeto a través de una referencia.
+...porque si bien no es del todo correcto, es más breve :sweat_smile:. Lo importante es que entiendas que siempre estamos enviando el mensaje al objeto a través de una referencia y lo haremos escribiendo `referencia.mensaje`. ¡Veámoslo en práctica!
 
 > Enviale el mensaje `necesita_saldo` al objeto `celular_de_eli` escribiendo `celular_de_eli.necesita_saldo()` en la consola.
