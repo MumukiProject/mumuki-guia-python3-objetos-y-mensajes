@@ -6,8 +6,14 @@ Hasta el momento en objetos, enviamos mensajes que nos retornan un valor, como `
 
 > Probá en consola los siguientes comandos y averigüemos qué pasa :eyes:
 >
-```python
-ム celular_de_eli.tiene_bateria_maxima()
-ム celular_de_eli.cargar_a_tope()
-ム celular_de_eli.tiene_bateria_maxima()
+>```python
+ムcelular_de_eli.tiene_bateria_maxima()
+```
+>
+>```
+ムcelular_de_eli.cargar_a_tope()
+```
+>
+>```
+ムcelular_de_eli.tiene_bateria_maxima()
 ```
