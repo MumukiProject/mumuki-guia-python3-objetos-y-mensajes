@@ -12,12 +12,21 @@ Nuestro ambiente se verá así:
 
 Los círculos son los objetos y las flechas que los apuntan son referencias. Diremos que dos referencias son idénticas si apuntan al mismo objeto y para saberlo contamos con el operador `is`.
 
-> Probá lo siguiente en la consola:
+> Probá lo siguiente en la consola en orden:
 >
-``` python
-ム bruno_diaz is batman
-ム bruno_diaz is bruce_wayne
-ム superman is clark_kent
-ム superman is batman
+>```python
+ムbruno_diaz is batman
+```
+>
+>```python
+ムbruno_diaz is bruce_wayne
+```
+>
+>```python
+ムsuperman is clark_kent
+```
+>
+>```python
+ムsuperman is batman
 ```
 > ¿Te imaginás que va a responder en cada caso?
