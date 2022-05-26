@@ -4,16 +4,33 @@ A los objetos con los que trabajamos en lecciones anteriores también podemos en
 
 En lecciones anteriores hemos escrito `str.upper("mumuki")` donde `str.upper` es una función y `"mumuki"` es el objeto string que recibe como argumento. Con la sintaxis que acabamos de aprender podríamos hacer directamente `"mumuki".upper()`, donde `"mumuki"` es el objeto receptor del mensaje `upper`. 
 
-> ¿No nos crees? Probá lo siguiente consola:
+> ¿No nos crees? Probá lo siguiente consola en orden:
 >
-```python
-ム celular_de_eli.tiene_bateria_maxima()
-ム str.upper("mumuki")
-ム "mumuki".upper()
-ム numeros
-ム list.append(numeros, 16)
-ム numeros
-ム numeros.append(32)
-ム numeros
+>```python
+ムstr.upper("mumuki")
+```
+>
+>```python
+ム"mumuki".upper()
+```
+>
+>```python
+ムnumeros
+```
+>
+>```python
+ムlist.append(numeros, 16)
+```
+>
+>```python
+ムnumeros
+```
+>
+>```python
+ムnumeros.append(32)
+```
+>
+>```python
+ムnumeros
 ```
 > ¿Te imaginás que va a pasar en cada caso?
