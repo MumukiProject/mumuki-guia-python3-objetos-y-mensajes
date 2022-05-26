@@ -8,8 +8,14 @@ Por suerte, Ro nos prestó su notebook. :computer:
 
 > Probá en la consola enviarle los siguientes mensajes:
 >
-```python
-ム notebook_de_ro.tiene_bateria_maxima()
-ム notebook_de_ro.cargar_a_tope()
-ム notebook_de_ro.necesita_saldo()
+>```python
+ムnotebook_de_ro.tiene_bateria_maxima()
+```
+>
+>```python
+ムnotebook_de_ro.cargar_a_tope()
+```
+>
+>```python
+ムnotebook_de_ro.necesita_saldo()
 ```
