@@ -10,10 +10,10 @@ Hasta el momento en objetos, enviamos mensajes que nos retornan un valor, como `
 ムcelular_de_eli.tiene_bateria_maxima()
 ```
 >
->```
+>```python
 ムcelular_de_eli.cargar_a_tope()
 ```
 >
->```
+>```python
 ムcelular_de_eli.tiene_bateria_maxima()
 ```
