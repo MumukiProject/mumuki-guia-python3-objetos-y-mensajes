@@ -5,5 +5,5 @@ Dejemos el suspenso y averigüémoslo... :face_with_monocle:
 > Probá en la consola:
 >
 ```python
-ム celular_de_eli.tiene_bateria()
+ムcelular_de_eli.tiene_bateria()
 ```
