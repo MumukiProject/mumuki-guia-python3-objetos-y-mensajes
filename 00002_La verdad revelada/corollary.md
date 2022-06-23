@@ -1,1 +1,1 @@
-¡Exacto! Todas las opciones son correctas, avancemos para conocer este mundo con mayor profundidad. :relieved:
+¡Exacto! Todas las opciones son correctas. ¡Avancemos para conocer este mundo con mayor profundidad! :relieved:
