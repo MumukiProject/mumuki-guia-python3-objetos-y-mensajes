@@ -1,5 +1,5 @@
-_¿Qué? ¿Así se ve un objeto?_ :eyes:
+_¿Qué? ¿Así se muestran?_ :eyes:
 
-Sí, es que los objetos son entes computacionales. Pero no todos se ven así. De hecho, ya vimos objetos antes sin saberlo. :grimacing:
+Sí, es que los objetos son entes computacionales. Pero no todos se muestran así. De hecho, ya trabajamos con ellos antes sin saberlo. :grimacing:
 
 En el próximo ejercicio, la verdad será revelada. :crystal_ball:
