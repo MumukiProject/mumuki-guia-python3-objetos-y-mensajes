@@ -1,7 +1,18 @@
 ¡Excelente! 
 
-Gracias a la referencia `celular_de_eli` pudimos enviarle un mensaje al objeto que referencia:
+Lo cierto es que en realidad, nos comunicamos con los objetos a través de sus referencias.
+
+:warning: Muchas veces, en lugar de decir que le enviamos un mensaje al objeto apuntado por la referencia, podemos llegar a decir...
+
+_enviar un mensaje al objeto_ 
+
+...o simplemente...
+
+_enviar un mensaje a_
+
+...porque si bien no es del todo correcto, es más breve :sweat_smile:. Lo importante es que entiendas que siempre estamos enviando el mensaje al objeto a través de una referencia y lo haremos escribiendo `objeto.mensaje()`.
+
+En este caso gracias a la referencia `celular_de_eli` pudimos enviarle un mensaje al objeto que referencia:
 
 <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-python3-objetos-y-mensajes/master/assets/objetos_nuevo_1_1647531232300.4.svg" alt="objetos_nuevo_1_1647531232300.4.svg" width="200px" height="auto">
 
-Como podemos notar, al enviarle un mensaje a un objeto suceden cosas :eyes:. En este caso nos retornó un booleano que nos dice si el objeto necesita saldo. 
