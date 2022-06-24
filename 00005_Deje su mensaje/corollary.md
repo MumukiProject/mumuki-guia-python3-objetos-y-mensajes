@@ -10,7 +10,7 @@ _enviar un mensaje al objeto_
 
 _enviar un mensaje a_
 
-...porque si bien no es del todo correcto, es más breve :sweat_smile:. Lo importante es que entiendas que siempre estamos enviando el mensaje al objeto a través de una referencia y mediante la sintaxis `objeto.mensaje()`.
+tal como lo hicimos al principio del ejercicio, porque si bien no es del todo correcto, es más breve :sweat_smile:. Lo importante es que entiendas que siempre estamos enviando el mensaje al objeto a través de una referencia y mediante la sintaxis `objeto.mensaje()`.
 
 En este caso gracias a la referencia `celular_de_eli` pudimos enviarle un mensaje al objeto que referencia:
 
