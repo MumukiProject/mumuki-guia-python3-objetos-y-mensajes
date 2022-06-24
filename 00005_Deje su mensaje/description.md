@@ -3,7 +3,7 @@ Por ahora sabemos que existen distintos tipos de objetos pero la verdad es que a
 Para solucionar problemas utilizando este paradigma, podemos interactuar con los objetos enviándoles mensajes escribiendo `objeto.mensaje()`. Por ejemplo:
 
 ```python
-ムbatman..necesita_descanso()
+ムbatman.necesita_descanso()
 True
 ムsuperman.necesita_descansp()
 False
