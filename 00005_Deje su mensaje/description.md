@@ -5,7 +5,7 @@ Para solucionar problemas utilizando este paradigma, podemos interactuar con los
 ```python
 ムbatman.necesita_descanso()
 True
-ムsuperman.necesita_descansp()
+ムsuperman.necesita_descanso()
 False
 ```
 
