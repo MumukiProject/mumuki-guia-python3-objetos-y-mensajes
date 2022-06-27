@@ -11,4 +11,4 @@ Esto significa que comparten parte de su interfaz. Dicho de otra forma, que `nec
 
 De la misma forma, habrás notado que hay mensajes que entienden tanto el `celular_de_eli` como la `notebook_de_ro`.
 
-> Ahora te toca a vos: marcá cuál es la interfaz que comparten los objetos `celular_de_eli` y `notebook_de_ro` objetos.
+> Ahora te toca a vos: marcá cuál es la interfaz que comparten los objetos `celular_de_eli` y `notebook_de_ro`.
