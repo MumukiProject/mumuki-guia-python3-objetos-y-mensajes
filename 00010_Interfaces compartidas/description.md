@@ -7,7 +7,7 @@ True
 False
 ```
 
-Esto significa que comparten parte de su interfaz. Dicho de otra forma, que `necesita_descanso` es parte de la interfaz compartida entre ambos objetos. 
+Esto significa que comparten parte de su interfaz. En otras palabras, `necesita_descanso` es parte de la interfaz compartida entre ambos objetos. 
 
 De la misma forma, habrás notado que hay mensajes que entienden tanto el `celular_de_eli` como la `notebook_de_ro`.
 
