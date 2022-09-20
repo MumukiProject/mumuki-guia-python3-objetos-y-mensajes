@@ -8,7 +8,7 @@ clark_kent = superman
 
 Nuestro ambiente se verá así:
 
-<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-python3-objetos-y-mensajes/master/assets/objetos_nuevo_1_1647530733877.3.svg" alt="objetos_nuevo_1_1647530733877.3.svg" width="350px" height="auto">
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-python3-objetos-y-mensajes/master/assets/objetos_nuevo2-11_1663683017289.svg" alt="Diagrama de objetos" width="350px" height="auto">
 
 Los círculos son los objetos y las flechas que los apuntan son referencias. Diremos que dos referencias son idénticas si apuntan al mismo objeto y para saberlo contamos con el operador `is`.
 
