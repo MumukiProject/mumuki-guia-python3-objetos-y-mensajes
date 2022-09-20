@@ -2,7 +2,7 @@
 
 En este caso gracias a la referencia `celular_de_eli` pudimos enviarle un mensaje al objeto que referencia:
 
-<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-python3-objetos-y-mensajes/master/assets/objetos_nuevo_1_1647531232300.4.svg" alt="objetos_nuevo_1_1647531232300.4.svg" width="200px" height="auto">
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-python3-objetos-y-mensajes/master/assets/objetos_nuevo2-12_1663683090381.svg" alt="objetos_nuevo2-12_1663683090381.svg" width="300px" height="auto">
 
 Es que en realidad, nos comunicamos con los objetos a través de sus referencias. Peeero, muchas veces en lugar de decir que le enviamos un mensaje al objeto apuntado por la referencia podemos llegar a decir...
 
