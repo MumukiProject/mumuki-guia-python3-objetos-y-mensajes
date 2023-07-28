@@ -11,4 +11,4 @@ False
 
 Como podemos notar, al hacer esto, suceden cosas. En este caso pudimos saber si tanto `superman` como `batman` necesitan descanso. :sleeping:
 
-> ¡Ahora te toca a vos! enviale el mensaje `necesita_saldo` al `celular_de_eli` utilizando la consola.
+> ¡Ahora te toca a vos! Enviale el mensaje `necesita_saldo` al `celular_de_eli` utilizando la consola.
