@@ -10,6 +10,10 @@ manual_evaluation: false
 progressive_expectations: false
 choices: []
 goal:
-  kind: last_query_outputs
-  output: 'False'
+  kind: queries_match
+  regexps:
+  - "^bruno_diaz\\s+is\\s+batman\\s*$"
+  - "^bruno_diaz\\s+is\\s+bruce_wayne\\s*$"
+  - "^superman\\s+is\\s+clark_kent\\s*$"
+  - "^superman\\s+is\\s+batman\\s*$"
 name: El derecho a la identidad
